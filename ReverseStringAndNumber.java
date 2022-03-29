@@ -1,4 +1,4 @@
-//To Reverse a string and number
+//To Reverse a string and no.
 package sample;
 
 public class ReverseStringAndNumber {
